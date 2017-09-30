@@ -1,0 +1,6 @@
+Coal: 20
+Iron: 20
+Gold: 2
+Redstone: 8
+Diamond: 1
+Lapis: 1

@@ -1,0 +1,17 @@
+HARDNESS LEVELS:
+Resource Ores = 3
+Resource Blocks = 5
+Obsidian  = 50
+
+
+RESISTANCE LEVELS:
+
+Resource Ores = 15
+Resource Blocks = 15
+
+HARVEST LEVELS:
+0 = Wood
+1 = Stone/Gold
+2 = Iron
+3 = Diamond
+4 = More powerful than diamond... (if implemented)

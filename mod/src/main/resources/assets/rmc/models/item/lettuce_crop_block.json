@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "rmc:blocks/lettuce_crop_block_stage_1"
+    }
+}

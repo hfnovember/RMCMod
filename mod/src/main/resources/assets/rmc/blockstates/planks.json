@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "variant=lemon_plank": { "model": "rmc:lemon_planks" }
+    }
+}

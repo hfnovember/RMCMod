@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "rmc:blocks/tomato_crop_block_stage_3"
+    }
+}
